@@ -1,10 +1,9 @@
-# Core-Java
-<p>
-  ## Why This Repository?
+# Core Java
+# 🧪 Core Java
 
 As a Software Test Engineer transitioning towards automation, I am using this repository to strengthen my Java programming skills. The examples here focus on concepts commonly used in Selenium, API Automation, and Test Automation Framework development.
 
-### Skills Demonstrated
+### 📌Skills Demonstrated
 
 - Java Programming
 - Object-Oriented Programming
@@ -12,4 +11,3 @@ As a Software Test Engineer transitioning towards automation, I am using this re
 - Debugging
 - Problem Solving
 - Git Version Control
-</p>
